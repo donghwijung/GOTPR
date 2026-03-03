@@ -52,7 +52,7 @@ python eval.py
 Select a text scene graph to perform scene retrieval, then visualize the matching text and OSM scene graphs. The index of the text scene graph to be checked can be specified using the `--visualization_graph_index` argument when executing the Python script.
 ```bash
 python visualize_scene_retrieval_results.py --visualization_graph_index <text_graph_index>
-# e.g. python visualize_scene_retrieval_results.py ---visualization_graph_index 2500 
+# e.g. python visualize_scene_retrieval_results.py --visualization_graph_index 2500 
 ```
 
 ## Citation
